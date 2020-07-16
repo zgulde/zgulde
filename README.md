@@ -2,7 +2,7 @@ Hi, I'm Zach!
 
 I enjoy solving problems with code and data, automating things that can be automated, and a good cup of hot tea.
 
-I work for [Codeup](https://codeup.com) instructing students in the web development and data science courses, as well as creating and coordinating curriculum.
+I work for [Codeup](https://codeup.com) instructing students in the web development and data science courses, creating and coordinating curriculum, and developing internal software tools.
 
 ## Open Source Projects
 
